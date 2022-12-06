@@ -6,5 +6,8 @@ Hope you're doing well by the way.
 
 !https://forthebadge.com/images/badges/works-on-my-machine.svg
 
+![Alt text](https://forthebadge.com/images/badges/works-on-my-machine.svg)
+<img src="[/controllers_brief.svg](https://forthebadge.com/images/badges/works-on-my-machine.svg)">
+
 Have a nice day
 PS: that was quick
